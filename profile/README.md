@@ -8,11 +8,46 @@ Across the continent and diaspora, many people are losing touch with their nativ
 
 ## Those Behind The Vision
 We’re a passionate group of builders, designers, technologists, and culture lovers.
-- [Loni Tande](https://www.linkedin.com/in/lonitandemiriamebenye/): Co-Founder, CEO, and Data Science Lead
-- [Myles Tande](https://www.linkedin.com/in/mylestande/): Co-Founder & Chief Operations Officer
-- [Dchoune Dominick](https://www.linkedin.com/in/dchoune-dominick-5a3755198/): Chief Technology Officer
-- [Steve Yonkeu](https://www.linkedin.com/in/yokwejuste/): Head of Cloud Architecture & Technical Strategy
-- [Chiamaka Nwankwo](https://www.linkedin.com/in/nwankwoamaka/): Creative Director
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mimi97-aqua">
+        <img src="https://avatars.githubusercontent.com/Mimi97-aqua" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
+        <strong><a href="https://www.linkedin.com/in/lonitandemiriamebenye/">Loni Tande</a></strong><br/>
+        Co-Founder, CEO, and Data Science Lead
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mylestande">
+        <img src="https://avatars.githubusercontent.com/mylestande" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
+        <strong><a href="https://www.linkedin.com/in/mylestande/">Myles Tande</a></strong><br/>
+        Co-Founder & Chief Operations Officer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/drec0xy">
+        <img src="https://avatars.githubusercontent.com/drec0xy" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
+        <strong><a href="https://www.linkedin.com/in/dchoune-dominick-5a3755198/">Dominick Dchoune</a></strong><br/>
+        Chief Technology Officer
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yokwejuste">
+        <img src="https://avatars.githubusercontent.com/yokwejuste" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
+        <strong><a href="https://www.linkedin.com/in/yokwejuste/">Steve Yonkeu</a></strong><br/>
+        Head of Cloud Architecture & Technical Strategy
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/uxcodechiamaka">
+        <img src="https://avatars.githubusercontent.com/uxcodechiamaka" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
+        <strong><a href="https://www.linkedin.com/in/nwankwoamaka/">Chiamaka Nkwankwo</a></strong><br/>
+        Creative Director
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Our Current Focus
 - Building MVP for early testers
@@ -29,7 +64,7 @@ We’re a passionate group of builders, designers, technologists, and culture lo
 - Data: PostgreSQL
 
 ## How Can You Help
-- **Contribute** – If you're a developer, designer, educator, cultural expert, or someone just generally interested in our project, we’d love to hear from you.
+- **Contribute** – If you're a developer, designer, educator, cultural expert, or someone just generally interested in our project, we’d love to hear from you. Learn more about contributing [here](https://github.com/ndaab/.github/blob/online/CONTRIBUTING.md).
 - **Partner** – We welcome partnerships with schools, NGOs, institutions et al, focused on culture, education, or tech.
 - **Support** – Grants, donations, and sponsorships help us keep ndaab accessible to all.
 
@@ -41,6 +76,6 @@ Let’s build something meaningful together.
 ## Get In Touch
 To collaborate, contribute, or learn more, reach out via:
 - Email: info@ndaab.com
-- Phone / WhatsApp: (+237) 680 426 864
+- Phone / WhatsApp: (+237) 680 426 864 | (+237) 6 50 76 99 41 | (+237) 6 87 05 78 84
 - Website: [ndaab.com](ndaab.com)
 - LinkedIn: [ndaab](https://www.linkedin.com/company/ndaab/)
