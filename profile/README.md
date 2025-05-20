@@ -15,7 +15,7 @@ We’re a passionate group of builders, designers, technologists, and culture lo
       <a href="https://github.com/Mimi97-aqua">
         <img src="https://avatars.githubusercontent.com/Mimi97-aqua" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/lonitandemiriamebenye/">Loni Tande</a></strong><br/>
-        Co-Founder, CEO, and Data Science Lead
+        Co-Founder, CEO, and Data & AI Lead
       </a>
     </td>
     <td align="center">
