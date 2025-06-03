@@ -36,7 +36,7 @@ We’re a passionate group of builders, designers, technologists, and culture lo
       <a href="https://github.com/yokwejuste">
         <img src="https://avatars.githubusercontent.com/yokwejuste" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/yokwejuste/">Steve Yonkeu</a></strong><br/>
-        Head of Cloud $ Security
+        Head of Cloud & Security
       </a>
     </td>
     <td align="center">
