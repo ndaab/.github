@@ -15,35 +15,35 @@ We’re a passionate group of builders, designers, technologists, and culture lo
       <a href="https://github.com/Mimi97-aqua">
         <img src="https://avatars.githubusercontent.com/Mimi97-aqua" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/lonitandemiriamebenye/">Loni Tande</a></strong><br/>
-        Co-Founder, CEO, and Data & AI Lead
+        Data Scientist
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mylestande">
         <img src="https://avatars.githubusercontent.com/mylestande" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/mylestande/">Myles Tande</a></strong><br/>
-        Co-Founder & Chief Operations Officer
+        Head of Operations
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/drec0xy">
         <img src="https://avatars.githubusercontent.com/drec0xy" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/dchoune-dominick-5a3755198/">Dominick Dchoune</a></strong><br/>
-        Chief Technology Officer
+        Technical Lead
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yokwejuste">
         <img src="https://avatars.githubusercontent.com/yokwejuste" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/yokwejuste/">Steve Yonkeu</a></strong><br/>
-        Head of Cloud & Security
+        Software Engineer
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/uxcodechiamaka">
         <img src="https://avatars.githubusercontent.com/uxcodechiamaka" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/nwankwoamaka/">Chiamaka Nkwankwo</a></strong><br/>
-        Creative Director
+        UI/UX Designer
       </a>
     </td>
   </tr>
