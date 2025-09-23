@@ -22,7 +22,7 @@ We’re a passionate group of builders, designers, technologists, and culture lo
       <a href="https://github.com/mylestande">
         <img src="https://avatars.githubusercontent.com/mylestande" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/mylestande/">Myles Tande</a></strong><br/>
-        Head of Operations
+        Partnerships & Ops
       </a>
     </td>
     <td align="center">
@@ -43,7 +43,7 @@ We’re a passionate group of builders, designers, technologists, and culture lo
       <a href="https://github.com/uxcodechiamaka">
         <img src="https://avatars.githubusercontent.com/uxcodechiamaka" width="100" style="border-radius: 50%; border: 3px solid #6e40c9;"/><br/>
         <strong><a href="https://www.linkedin.com/in/nwankwoamaka/">Chiamaka Nkwankwo</a></strong><br/>
-        UI/UX Designer
+        Creative Designer
       </a>
     </td>
   </tr>
